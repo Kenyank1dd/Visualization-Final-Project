@@ -52,4 +52,4 @@ element-ui-2.15.12
 ## References
 1.https://blog.csdn.net/qq_40282732/article/details/105656848 (布局模板)
 
-
+2.https://echarts.apache.org/zh/option.html#title (Echarts配置项手册)

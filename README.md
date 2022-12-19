@@ -2,7 +2,7 @@
 
 Health Monitoring Dashboard是可以动态显示身体健康数据的交互面板。当我们能够获取到一些个人的健康数据时，将其整合成一个交互面板可以让用户更直观地看到自身的一些身体情况和变化。
 
-[**布局模板链接**](https://blog.csdn.net/qq_40282732/article/details/105656848)
+[**布局模板链接**](https://blog.csdn.net/qq_40282732/article/details/105656848)(采用了模板的布局样式，可视化设计、数据以及内部交互逻辑均为小组设计)
 
 [**Web Page**](https://kenyank1dd.github.io/Visualization-Final-Project/#/)(preview online)
 
